@@ -1,6 +1,6 @@
-header {
+.header {
   text-align: center;
-  background-image: url(http://i.imgur.com/OA4ReJD.jpg);
+  background: url(http://i.imgur.com/OA4ReJD.jpg);
   background-position: center;
   background-size: cover;
   height: 300px
