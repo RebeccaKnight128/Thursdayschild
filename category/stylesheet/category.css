@@ -43,7 +43,7 @@
   padding: 10px;
   background: rgba(0, 0, 0, 0.5);
   font-family: 'Merriweather', serif;
-  margin-top: 180px
+  margin-top: 182px
    
   
 }
@@ -58,6 +58,10 @@ li: link {
 }
 
 li: visited {
+  text-decoration: none;
+}
+
+li: hover {
   text-decoration: none;
 }
 
