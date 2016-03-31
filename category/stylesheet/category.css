@@ -53,17 +53,10 @@
   padding: 0px 10px 0px 10px 
 }
 
-li: link {
+li: link, li: visited, li: hover {
   text-decoration: none;
 }
 
-li: visited {
-  text-decoration: none;
-}
-
-li: hover {
-  text-decoration: none;
-}
 
 h2 {
   font-family: 'Merriweather', serif;
