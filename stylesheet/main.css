@@ -23,7 +23,7 @@
    color: white;
  }
 
-.header ul, ul: visited, ul: link, ul: hover {
+.header li: link, li: visited, li: hover {
   color: white;
   text-decoration: none;
 
@@ -34,7 +34,7 @@
   padding: 10px;
   background: rgba(0, 0, 0, 0.5);
   font-family: 'Merriweather', serif;
-  margin-top: 0;
+  margin-top: 183px;
 }
 
  .header li {
