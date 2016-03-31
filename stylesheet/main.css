@@ -11,7 +11,8 @@
 .header h1 {
   font-size: 70px;
   font-family: 'Merriweather', serif;
-  text-align: center;
+  position: relative;
+  margin-top: 200px;
 
   
   
@@ -24,7 +25,7 @@ a, a: visited, a: link, a: hover {
 }
 
 
- .header .category {
+ .header .menu .category {
   padding: 10px;
   background: rgba(0, 0, 0, 0.5);
   font-family: 'Merriweather', serif;
