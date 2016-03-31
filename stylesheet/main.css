@@ -22,7 +22,7 @@ ul {
   padding: 10px;
   background: rgba(0, 0, 0, 0.5);
   font-family: 'Merriweather', serif;
-  margin-top: 172px
+  margin-top: 180px
 }
 
 li {
@@ -39,15 +39,7 @@ li {
         vertical-align: baseline;
         background: transparent;
 }
-@media (max-width: 500px) {
-        h1{ 
-          font-size: 36px;
-      }
-      li{
-        display: block;
-        padding: 5px;
-      }
-    } 
+
 
 
 
