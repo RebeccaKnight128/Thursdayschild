@@ -1,7 +1,6 @@
 header {
   text-align: center;
-  background: url(http://i.imgur.com/OA4ReJD.jpg);
-  color: white;
+  background-image: url(http://i.imgur.com/OA4ReJD.jpg);
   background-position: center;
   background-size: cover;
   height: 300px
