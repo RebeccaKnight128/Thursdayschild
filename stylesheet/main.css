@@ -23,15 +23,15 @@ a, a: visited, a: link, a: hover {
 }
 
 
-.header ul, menu, a {
+ul, menu, a {
   padding: 10px;
   background: rgba(0, 0, 0, 0.5);
   font-family: 'Merriweather', serif;
-  margin-top: 180px
+  margin-top: 250px
   color: white;
 }
 
-.header li {
+li {
   display: inline;
   padding: 0px 10px 0px 10px 
   color:white;
