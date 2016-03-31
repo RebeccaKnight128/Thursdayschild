@@ -18,21 +18,21 @@
   
  }    
 
-a, a: visited, a: link, a: hover {
+.a. .a: visited, .a: link, .a: hover {
   color: white;
   text-decoration: none;
 
 }
 
 
- .header .menu .category {
+ .menu .category .a {
   padding: 10px;
   background: rgba(0, 0, 0, 0.5);
   font-family: 'Merriweather', serif;
   color: white;
 }
 
-.category {
+ .menu .category {
   display: inline;
   padding: 0px 40px 0px 10px;
   color:white;
