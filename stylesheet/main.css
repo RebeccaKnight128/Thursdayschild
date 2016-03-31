@@ -5,6 +5,7 @@
   background-size: cover;
   color: white;
   height: 300px;
+  margin-top: 0;
   
 }
 
@@ -12,29 +13,34 @@
   font-size: 70px;
   font-family: 'Merriweather', serif;
   position: relative;
+  top: 100px;
+  margin-top: 0;
   
   
- }    
+ }   
+ 
+ .header a {
+   color: white;
+ }
 
-.header a, a: visited, a: link, a: hover {
+.header ul, ul: visited, ul: link, ul: hover {
   color: white;
   text-decoration: none;
 
 }
 
 
- .header menu category a {
+ .header ul {
   padding: 10px;
   background: rgba(0, 0, 0, 0.5);
   font-family: 'Merriweather', serif;
-  color: white;
+  margin-top: 0;
 }
 
- .header menu category a {
+ .header li {
   display: inline;
   padding: 0px 40px 0px 10px;
-  color:white;
-}
+  }
 
 * {
         margin: 0;
