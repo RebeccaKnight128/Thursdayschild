@@ -11,8 +11,10 @@
   
  }    
 
-menu {
+.menu, .menu: visited, .menu: link, .menu: hover {
   color: white;
+  text-decoration: none;
+
 }
 
 
