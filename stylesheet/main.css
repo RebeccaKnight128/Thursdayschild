@@ -12,27 +12,25 @@
   font-size: 70px;
   font-family: 'Merriweather', serif;
   position: relative;
-  margin-top: 200px;
-
   
   
  }    
 
-.a. .a: visited, .a: link, .a: hover {
+.header a, a: visited, a: link, a: hover {
   color: white;
   text-decoration: none;
 
 }
 
 
- .menu .category .a {
+ .header menu category a {
   padding: 10px;
   background: rgba(0, 0, 0, 0.5);
   font-family: 'Merriweather', serif;
   color: white;
 }
 
- .menu .category {
+ .header menu category a {
   display: inline;
   padding: 0px 40px 0px 10px;
   color:white;
