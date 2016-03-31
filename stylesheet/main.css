@@ -3,7 +3,6 @@
   background: url(http://i.imgur.com/OA4ReJD.jpg);
   background-position: center;
   background-size: cover;
-  height: 300px
   font-size: 70px;
   font-family: 'Merriweather', serif;
   position: relative;
@@ -11,18 +10,19 @@
   
  }    
 
-menu, menu: visited, menu: link, .menu: hover {
+a, a: visited, a: link, a: hover {
   color: white;
   text-decoration: none;
 
 }
 
 
-ul, menu {
+ul, menu, a {
   padding: 10px;
   background: rgba(0, 0, 0, 0.5);
   font-family: 'Merriweather', serif;
   margin-top: 180px
+  color: white;
 }
 
 li {
