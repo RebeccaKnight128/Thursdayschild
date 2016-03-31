@@ -43,8 +43,7 @@
   padding: 10px;
   background: rgba(0, 0, 0, 0.5);
   font-family: 'Merriweather', serif;
-  margin-top: 172px
-  
+  margin-top: 180px
    
   
 }
@@ -52,6 +51,14 @@
 .header li {
   display: inline;
   padding: 0px 10px 0px 10px 
+}
+
+li: link {
+  text-decoration: none;
+}
+
+li: visited {
+  text-decoration: none;
 }
 
 h2 {
