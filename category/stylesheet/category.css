@@ -3,7 +3,7 @@
   color: white;
   background-position: center;
   background-size: cover;
-  height: 300px
+  height: 300px;
   margin-top: 0;
 }
 .travel{
@@ -45,14 +45,14 @@
   padding: 10px;
   background: rgba(0, 0, 0, 0.5);
   font-family: 'Merriweather', serif;
-  margin-top: 183px
+  margin-top: 183px;
    
   
 }
 
 .header li {
   display: inline;
-  padding: 0px 10px 0px 10px 
+  padding: 0px 10px 0px 10px; 
 }
 
 li: link, li: visited, li: hover {
