@@ -23,6 +23,19 @@
    color: white;
    text-decpration: none
  }
+ 
+ a:hover {
+   text-decoration: none;
+ }
+ 
+ a:active {
+   text-decoration: none;
+ }
+ 
+ a:link {
+   text-decoration: none;
+ }
+
 
 li: link, li: visited, li: hover {
   text-decoration: none;
