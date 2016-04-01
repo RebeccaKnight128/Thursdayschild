@@ -19,8 +19,9 @@
   
  }   
  
- .header a {
+ .header a, a: hover {
    color: white;
+   text-decpration: none
  }
 
 li: link, li: visited, li: hover {
