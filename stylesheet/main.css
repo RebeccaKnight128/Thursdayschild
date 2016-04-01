@@ -23,8 +23,7 @@
    color: white;
  }
 
-.header li: link, li: visited, li: hover {
-  color: white;
+li: link, li: visited, li: hover {
   text-decoration: none;
 
 }
