@@ -24,23 +24,24 @@
    text-decpration: none
  }
  
- a:hover {
-   text-decoration: none;
- }
- 
- a:active {
-   text-decoration: none;
- }
- 
- a:link {
-   text-decoration: none;
- }
-
-
-li: link, li: visited, li: hover {
+ li: link, li: visited, li: hover {
   text-decoration: none;
 
 }
+ a:hover {
+   color: WindowText;
+ }
+ 
+ a:active {
+   color: WindowText;
+ }
+ 
+ a:link {
+   color: WindowText;
+ }
+
+
+
 
 
  .header ul {
