@@ -24,25 +24,6 @@
    text-decpration: none
  }
  
- li: link, li: visited, li: hover {
-  text-decoration: none;
-
-}
- a:hover {
-   color: WindowText;
- }
- 
- a:active {
-   color: WindowText;
- }
- 
- a:link {
-   color: WindowText;
- }
-
-
-
-
 
  .header ul {
   padding: 10px;
@@ -55,6 +36,11 @@
   display: inline;
   padding: 0px 10px 0px 10px;
   }
+  
+li: link, li: visited, li: hover {
+  text-decoration: none;
+
+}
 
 * {
         margin: 0;
