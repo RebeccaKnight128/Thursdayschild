@@ -72,7 +72,7 @@ p {
   
 }
 
-#first {
+.img {
   position: relative;
   left: 20px;
 }
