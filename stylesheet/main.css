@@ -42,6 +42,12 @@ li: link, li: visited, li: hover {
 
 }
 
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+
 * {
         margin: 0;
         padding: 0;
