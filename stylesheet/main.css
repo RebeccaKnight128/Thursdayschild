@@ -43,7 +43,7 @@ li: link, li: visited, li: hover {
 
 }
 
-a {
+.header a {
   color: @link-color;
   text-decoration: none;
 
@@ -54,7 +54,7 @@ a {
 }
 
 h2 {
-  font-family: courier;
+  font-family: Helvetica;
  
 }
 
@@ -67,6 +67,7 @@ h2 {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 200px;
 }
 
 
