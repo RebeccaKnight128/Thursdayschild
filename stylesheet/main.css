@@ -54,10 +54,16 @@ li: link, li: visited, li: hover {
 }
 
  h2 {
-  font-family: 'Cabin', 'sans-serif';
+  font-family: 'Merriweather', 'serif';
   padding: 20px;
   text-shadow: 1px 1px 1px #ccc;
 
+}
+
+p {
+  font-family: 'Merriweather, 'serif';
+  font-size: 20px
+  padding: 20px;
 }
 
 .center-block() {
