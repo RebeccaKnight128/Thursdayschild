@@ -53,17 +53,14 @@ li: link, li: visited, li: hover {
   }
 
 
- h2 {
-  padding: 20px;
-  text-shadow: 1px 1px 1px #ccc;
-  
-}
 
 .margin {
 font-size: 60px;
 font-family: 'Merriweather', 'serif';
-
+ padding: 20px;
+  text-shadow: 1px 1px 1px #ccc;
 }
+
 #heading {
   padding: 20px;
 }
