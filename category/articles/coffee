@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang='en'>
+<html>
 <head>
   <STYLE>
 <!--
@@ -7,9 +10,10 @@ A{text-decoration:none}
   
 <link rel="stylesheet" type="text/css" href="thursdayschild/category/articles/stylesheet/css">  
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-<link rel='stylesheet' type='text/css' href='stylesheet/category.css'>
+<link rel='stylesheet' type='text/css' href='stylesheet/category/articles.css'>
 <link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
-<meta charset='utf-8'>    
+<meta charset='utf-8'> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
     
 </head>
 <body>
@@ -18,31 +22,72 @@ A{text-decoration:none}
   
   <h1>T O P 5 &nbsp C O F F E E &nbsp S H O P S <br>
     E D I N B U R G H</h1>
-     <ul>
-        <li><a href="fashion.html">Fashion</a></li>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Art & Culture</a></li>
-       <li><a href='#'>Travel</a></li>
-       <li><a href='#'>Manifesto</a></li>
-       <li><a href='#'>Contact Us</a></li>
+     <ul id='menu'>
+        <li class='category'><a href="fashion.html">Fashion</a></li>
+        <li class='category'><a href="index.html">Home</a></li>
+        <li class='category'><a href="artsandculture.html">Arts and Culture</a></li>
+       <li class='category'><a href='travel.html'>Travel</a></li>
+       <li class='category'><a href='food.html'></a>Food</li>
+       <li class='category'><a href='Contact Us'></a>Contact Us</li>
        
      </ul>
     <link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
   </div>
-  <h2>
+  
+  <div class='container-fluid bg-2 text-center'>
+  <h2 class='margin'>
     There are plenty of great coffee shops to visit in edinburgh; with a ton of independent roasters and coffee shops all over the Scottish capital (see the intependent coffee guide) it's difficult to know where to start. So, we have narrowed it down to our top 5 coffee shops that are a definite must see on any visit to the beautiful city!
   </h2>
   
-  <h3>
-    5. Leo and Ted's
-  </h3>
+  <div class="row">
+  <div class="col-md-12">
+     <p>5. Leo and Ted's</p>
+     
+     <img src='http://i.imgur.com/3n6jrC3.jpg' id='first' class='img-rounded margin img-responsive center-block' width='60%' alt='Image' style=right>
+  </div>
+  </div>
   
-  <h4>
-    This newly opened coffee shop is an imalgimation of Leo's Beanary and Ted's bakehouse, both Edinburgh staples. And together, well it's a match made in heaven! 
-    Based on Leven Street in Brunstfield, just near the Meadows, Leo and Ted's is a small but very well-formed coffee shop, with a few tables and a really great menu. There are always lovely baked goods on offer, along with a couple of soups, some bagels, sandwiches and great, great coffee! 
-  </h4>
+  <div class="row">
+  <div class="col-md-12">
+     <p>4. Low Down Coffee</p>
+     <a href="coffee.html"></a>
+     
+     <img src='http://i.imgur.com/1dtvxZw.jpg' id='first' class='img-rounded margin img-responsive center-block' width='60%' alt='Image' style=right>
+  </div>
+  </div>
   
-  <img src="http://i.imgur.com/pL0kCrQ.jpg" div class="first" />
+  <div class="row">
+  <div class="col-md-12">
+     <p>3. Wellington Coffee</p>
+     <a href="coffee.html"></a>
+     
+     <img src='http://i.imgur.com/529I5Ml.jpg' id='first' class='img-rounded margin img-responsive center-block' width='60%' alt='Image' style=right>
+  </div>
+  </div>
+  
+  <div class="row">
+  <div class="col-md-12">
+     <p>2. No.33</p>
+     <a href="coffee.html"></a>
+     
+     <img src='http://i.imgur.com/P36LpyS.jpg' id='first' class='img-rounded margin img-responsive center-block' width='60%' alt='Image' style=right>
+  </div>
+  </div>
+  
+  <div class="row">
+  <div class="col-md-12">
+     <p>1. Cairngorm Coffee</p>
+     <a href="coffee.html"></a>
+     
+     <img src='http://i.imgur.com/24xmaMK.jpg' id='first' class='img-rounded margin img-responsive center-block' width='60%' alt='Image' style=right>
+  </div>
+  </div>
+  
+  
+  </div>
+  
+
   
 </body>
+</html>
 
