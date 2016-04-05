@@ -1,1 +1,48 @@
+<head>
+  <STYLE>
+<!--
+A{text-decoration:none}
+-->
+</STYLE>
+  
+<link rel="stylesheet" type="text/css" href="thursdayschild/category/articles/stylesheet/css">  
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<link rel='stylesheet' type='text/css' href='stylesheet/category.css'>
+<link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
+<meta charset='utf-8'>    
+    
+</head>
+<body>
+
+  <div class ='header coffee'>
+  
+  <h1>T O P 5 &nbsp C O F F E E &nbsp S H O P S <br>
+    E D I N B U R G H</h1>
+     <ul>
+        <li><a href="fashion.html">Fashion</a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Art & Culture</a></li>
+       <li><a href='#'>Travel</a></li>
+       <li><a href='#'>Manifesto</a></li>
+       <li><a href='#'>Contact Us</a></li>
+       
+     </ul>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
+  </div>
+  <h2>
+    There are plenty of great coffee shops to visit in edinburgh; with a ton of independent roasters and coffee shops all over the Scottish capital (see the intependent coffee guide) it's difficult to know where to start. So, we have narrowed it down to our top 5 coffee shops that are a definite must see on any visit to the beautiful city!
+  </h2>
+  
+  <h3>
+    5. Leo and Ted's
+  </h3>
+  
+  <h4>
+    This newly opened coffee shop is an imalgimation of Leo's Beanary and Ted's bakehouse, both Edinburgh staples. And together, well it's a match made in heaven! 
+    Based on Leven Street in Brunstfield, just near the Meadows, Leo and Ted's is a small but very well-formed coffee shop, with a few tables and a really great menu. There are always lovely baked goods on offer, along with a couple of soups, some bagels, sandwiches and great, great coffee! 
+  </h4>
+  
+  <img src="http://i.imgur.com/pL0kCrQ.jpg" div class="first" />
+  
+</body>
 
