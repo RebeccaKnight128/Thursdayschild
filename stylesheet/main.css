@@ -42,14 +42,31 @@ li: link, li: visited, li: hover {
   text-decoration: none;
 
 }
+
+a {
+  color: @link-color;
+  text-decoration: none;
+
+  &:hover {
+    color: @link-hover-color;
+    text-decoration: underline;
+  }
+}
+
 h2 {
-  font-family: Aharoni;
+  font-family: courier;
  
 }
 
 .first {
   position: relative;
   left: 100px;
+}
+
+.center-block() {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
