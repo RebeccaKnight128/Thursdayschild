@@ -62,12 +62,14 @@ h2 {
   font-family: 'Merriweather', serif;
   font-size: 25px;
   font-style: italic;
+  padding: 20px;
 }
 p { 
   font-family: 'Merriweather', serif;
   font-size: 20px;
-  padding: 10px;
+  padding: 20px;
   position: center;
+  margin-top: 10px;
 
   
 }
