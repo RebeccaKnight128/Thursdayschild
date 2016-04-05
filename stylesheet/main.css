@@ -54,18 +54,15 @@ li: link, li: visited, li: hover {
 
 
 
-.margin h2 {
-font-size: 60px;
-font-family: 'Merriweather', 'serif';
- padding: 20px;
+h2 {
+  font-size: 60px;
+  font-family: 'Merriweather', 'serif';
+  padding: 20px;
   text-shadow: 1px 1px 1px #ccc;
 }
 
-#heading p {
-  padding: 20px;
-}
-
 p {
+  padding: 20px;
   font-family: 'Merriweather, 'serif';
   font-size: 100px;
   
