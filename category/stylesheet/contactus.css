@@ -1,12 +1,14 @@
 .header {
   text-align: center;
-  color: white;
+  background: url(http://i.imgur.com/XZBuiFR.jpg);
   background-position: center;
   background-size: cover;
+  color: white;
   height: 300px;
   margin-top: 0;
-  }
-  .contactus{
+  
+  
+.contactus {
   background:black;
 }
 
