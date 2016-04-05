@@ -86,11 +86,12 @@ body {
 	margin:50px 0;
 }
 
-#contact h3 {
+ h3 {
 	color: black
 	display: block;
 	font-size: 30px;
 	font-weight: 400;
+	font-family: 'Merriweather', serif;
 }
 
 #contact h4 {
@@ -105,6 +106,7 @@ fieldset {
 	min-width: 100%;
 	padding: 0;
 	width: 100%;
+	color: black;
 }
 
 #contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea {
@@ -113,7 +115,6 @@ fieldset {
 	background:#FFF;
 	margin:0 0 5px;
 	padding:10px;
-	color: black;
 }
 
 -
