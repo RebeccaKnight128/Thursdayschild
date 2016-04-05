@@ -43,7 +43,7 @@ li: link, li: visited, li: hover {
 
 }
 
-.header a {
+.header li {
   color: @link-color;
   text-decoration: none;
 
@@ -57,12 +57,13 @@ li: link, li: visited, li: hover {
   font-family: 'Merriweather', 'serif';
   padding: 20px;
   text-shadow: 1px 1px 1px #ccc;
+  font-size: 200px;
 
 }
 
 p .heading {
   font-family: 'Merriweather, 'serif';
-  font-size: 20px
+  font-size: 100px
   padding: 20px;
 }
 
