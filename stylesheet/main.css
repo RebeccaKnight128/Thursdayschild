@@ -61,7 +61,7 @@ li: link, li: visited, li: hover {
 
 }
 
-p .heading {
+#heading {
   font-family: 'Merriweather, 'serif';
   font-size: 100px
   padding: 20px;
