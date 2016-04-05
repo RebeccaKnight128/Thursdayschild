@@ -96,7 +96,7 @@ html, body {
         background: transparent;
 }
 footer{
-  position:center;
+  display:block;
 }
 
 
