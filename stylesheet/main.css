@@ -53,13 +53,10 @@ li: link, li: visited, li: hover {
   }
 }
 
-h2 {
+.margin .title {
   font-family: Helvetica;
   padding: 20px;
   text-shadow: 1px 1px 1px #ccc;
-
-}
- 
 
 }
 
