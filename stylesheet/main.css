@@ -51,23 +51,27 @@ li: link, li: visited, li: hover {
     color: @link-hover-color;
     text-decoration: underline;
   }
-}
 
- h2 {
+
+ h2 .margin {
   padding: 20px;
   text-shadow: 1px 1px 1px #ccc;
   
 }
 
 .margin {
-font-size: 200px;
+font-size: 60px;
 font-family: 'Merriweather', 'serif';
 
 }
 #heading {
-  font-family: 'Merriweather, 'serif';
-  font-size: 100px;
   padding: 20px;
+}
+
+p {
+font-family: 'Merriweather, 'serif';
+  font-size: 100px;
+  
 }
 
 .center-block() {
