@@ -6,6 +6,48 @@
   height: 300px;
   margin-top: 0;
   }
+  .contactus{
+  background:black;
+}
+
+.header a {
+  color: white;
+}
+
+.header h1 {
+  font-size: 70px;
+  font-family: 'Merriweather', serif;
+  position: relative;
+  top: 100px;
+  margin-top: 0;
+  
+
+}
+
+.header ul {
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.5);
+  font-family: 'Merriweather', serif;
+  margin-top: 183px;
+   
+  
+}
+
+.header li {
+  display: inline;
+  padding: 0px 10px 0px 10px; 
+}
+
+li: link, li: visited, li: hover {
+  text-decoration: none;
+}
+
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 25px;
+  font-style: italic;
+}
 * {
 	margin:0;
 	padding:0;
@@ -89,8 +131,6 @@ fieldset {
 	cursor:pointer;
 	width:100%;
 	border:none;
-	background:#0CF;
-	color:#FFF;
 	margin:0 0 5px;
 	padding:10px;
 	font-size:15px;
