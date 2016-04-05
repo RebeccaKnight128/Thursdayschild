@@ -72,9 +72,11 @@ p {
   
 }
 
-.img {
-  position: relative;
-  left: 20px;
+.center-block() {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 
 html, body {
