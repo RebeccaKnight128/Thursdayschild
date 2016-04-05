@@ -1,60 +1,91 @@
 .header {
   text-align: center;
-  background: url(http://i.imgur.com/CSWsknw.jpg);
   color: white;
   background-position: center;
   background-size: cover;
-  height: 300px
- 
-  }    
+  height: 300px;
+  margin-top: 0;
+  }
+.travel{
+  background-image:url("http://i.imgur.com/uN9vFLe.jpg");
+}
+.food{
+  background-image:url("http://i.imgur.com/GGXbBCv.jpg");
+}
+.artandculture{
+  background-image:url("http://i.imgur.com/OPrUyGI.jpg");
+}
+.fashion{
+  background-image: url("http://i.imgur.com/wrnCzzF.jpg");
+}
+.manifesto{
+  background:black;
+}
+.contactus{
+  background:black;
+}
 
-
-a{
+.header a {
   color: white;
 }
 
-h1 {
+.header h1 {
   font-size: 70px;
   font-family: 'Merriweather', serif;
   position: relative;
-  top: 60px
+  top: 100px;
+  margin-top: 0;
   
-  
-  
-  
+
 }
 
-ul {
+.header ul {
   padding: 10px;
   background: rgba(0, 0, 0, 0.5);
   font-family: 'Merriweather', serif;
-  margin-top: 183px
-  
+  margin-top: 183px;
    
   
 }
 
-li {
+.header li {
   display: inline;
-  padding: 0px 10px 0px 10px 
+  padding: 0px 10px 0px 10px; 
 }
 
-p {
- font-family: 'Merriweather', serif;
- font-size: 20px;
- padding: 20px;
- position: center;
- marging-top: 10px;
- 
- .center-block {
+li: link, li: visited, li: hover {
+  text-decoration: none;
+}
+
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 25px;
+  font-style: italic;
+  padding: 20px;
+}
+p { 
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  padding: 20px;
+  position: center;
+  margin-top: 10px;
+
+  
+}
+
+.center-block() {
   display: block;
-  margin-left:auto
-  margin-right:auto;
+  margin-left: auto;
+  margin-right: auto;
   
-  }
+}
 
+html, body {
+  margin: 0;
+  padding: 0;
+}
 
-  
 * {
         margin: 0;
         padding: 0;
@@ -63,5 +94,9 @@ p {
         font-size: 100%;
         vertical-align: baseline;
         background: transparent;
+}
+footer{
+  display:block;
+  text-align:center;
 }
 
